@@ -1,2 +1,2 @@
-# tesztel-s
+# tesztelek
 tanulok
